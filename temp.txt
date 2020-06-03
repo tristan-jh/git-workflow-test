@@ -2,3 +2,6 @@ lines in master
 
 a new line added to base
 now with base modified feature
+
+
+and dependent feature
